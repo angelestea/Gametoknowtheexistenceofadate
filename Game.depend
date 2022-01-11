@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1641659314 source:c:\users\pc\documents\itsco\matters\programación\1er semestre\unidad 2\actividades 1\ejercicio_2.1\main.cpp
+	<math.h>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<limits>
+
+1641741973 source:c:\users\pc\documents\itsco\matters\programación\1er semestre\unidad 2\actividades 1\ejercicio_2\main.cpp
+	<math.h>
+	<iostream>
+	<conio.h>
+
